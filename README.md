@@ -110,9 +110,3 @@ The final model uses a custom threshold (0.35) to optimize the F1 score rather t
 - Create department-specific models for more targeted predictions
 - Add explainability features for HR interpretation
 
-## License
-This project is proprietary and confidential to TAO-IQ.
-
-## Acknowledgments
-- The IBM HR Analytics dataset was used for model development
-- This model was developed as part of a TAO-IQ partner evaluation project
